@@ -1,0 +1,12 @@
+a) Preparação inicial  
+Ligue o primeiro interruptor e espere alguns minutos. Esse tempo é suficiente para que a lâmpada controlada por esse interruptor aqueça. Após esse tempo, desligue o primeiro interruptor e ligue o segundo interruptor.
+
+b) Primeira ida à sala das lâmpadas  
+Ao chegar à sala das lâmpadas, teremos três possíveis situações:
+
+possibilidade 1: A lâmpada acesa estará conectada ao segundo interruptor, que foi o último a ser ligado.
+
+possibilidade 2: A lâmpada apagada e quente será a que estava conectada ao primeiro interruptor, que foi ligado inicialmente e depois desligado.
+
+possibilidade 3: A lâmpada apagada e fria será a que está conectada ao terceiro interruptor, que não foi ligado em nenhum momento.
+Desse modo, com essa sequência de ações, é possível identificar com clareza qual interruptor controla cada lâmpada utilizando apenas duas idas à sala
